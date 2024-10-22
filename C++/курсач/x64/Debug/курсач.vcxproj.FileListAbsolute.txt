@@ -1,0 +1,9 @@
+C:\курсач\курсач\курсач\x64\Debug\курсач.vcxproj.AssemblyReference.cache
+C:\курсач\курсач\курсач\x64\Debug\курсач.vcxproj.SuggestedBindingRedirects.cache
+C:\курсач\курсач\курсач\x64\Debug\курсач.MyForm.resources
+C:\курсач\курсач\курсач\x64\Debug\курсач.MyForm1.resources
+C:\курсач\курсач\курсач\x64\Debug\курсач.MyForm2.resources
+C:\курсач\курсач\курсач\x64\Debug\курсач.MyForm3.resources
+C:\курсач\курсач\курсач\x64\Debug\курсач.MyForm4.resources
+C:\курсач\курсач\курсач\x64\Debug\курсач.MyForm5.resources
+C:\курсач\курсач\курсач\x64\Debug\курсач.vcxproj.GenerateResource.cache
