@@ -1,0 +1,12 @@
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\bin\Debug\WF-MSA_calories.exe.config
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\bin\Debug\WF-MSA_calories.exe
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\bin\Debug\WF-MSA_calories.pdb
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF-MSA_calories.csprojAssemblyReference.cache
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF_MSA_calories.addForm.resources
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF_MSA_calories.Form1.resources
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF_MSA_calories.Properties.Resources.resources
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF_MSA_calories.reportForm.resources
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF-MSA_calories.csproj.GenerateResource.cache
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF-MSA_calories.csproj.CoreCompileInputs.cache
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF-MSA_calories.exe
+D:\_курсоваяC#\calculatorcaloria\WF-SQL_calories-master\WF-MSA_calories\obj\Debug\WF-MSA_calories.pdb
